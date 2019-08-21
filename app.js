@@ -1,4 +1,4 @@
-const apiKey= '9a12a3c2acd14673abc3ffbe701e94ff';
+const apiKey= '2367cbb6ad2c44a3b56ab29dc0bb8594';
 const main = document.querySelector('main');
 const sourceSelector = document.querySelector('#sourceSelector');
 const defaultSource =  'the-hindu';

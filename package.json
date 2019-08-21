@@ -1,0 +1,22 @@
+{
+  "name": "progressivewebapp-news",
+  "version": "1.0.0",
+  "description": "Simple webpage along with progressive web application for fetching the news articles",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nav2510/progressiveWebApp-News.git"
+  },
+  "author": "Navdeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nav2510/progressiveWebApp-News/issues"
+  },
+  "homepage": "https://github.com/nav2510/progressiveWebApp-News#readme",
+  "dependencies": {
+    "workbox-sw": "^2.1.1"
+  }
+}
